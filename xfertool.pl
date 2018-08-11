@@ -24,7 +24,7 @@ if ($> == 0) {
 
 # Exit if config or destination are not provided.
 if (!defined($config) || !defined($user)) {
-    die 'Please provide config file and $user to login as.';
+    die 'Usage: ./xfertool.pl $config $user';
 }
 
 # Parse the config file
