@@ -1,5 +1,11 @@
 #!/usr/bin/perl
 
+# WARNING
+# Script is currently not working. Started writing
+# to address an issue at a company I no longer work for
+# and will not be finishing the script. I have only 
+# posted this script as proof that I can write Perl.
+
 use strict;
 use warnings;
 use Net::SCP;
